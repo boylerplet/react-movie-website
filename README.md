@@ -72,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 firebase deployment is done by using command:
 
 # firebase deploy --only hosting:react-movie-db
+
+Install Required Node Modules from 'package.json' using command:
+
+# npm install
+
+[Need a private API key from RMDB in a .env file in root directory]
+
+### WONT WORK IF .env NOT PRESENT ###
